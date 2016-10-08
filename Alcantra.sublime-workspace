@@ -1,0 +1,824 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Vector3",
+				"Vector3\t*(x, y, z)"
+			],
+			[
+				"Vecto",
+				"Vector3\tVector2.*()"
+			],
+			[
+				"ONGui",
+				"OnGUI\tMonoBehaviour.*()"
+			],
+			[
+				"sw",
+				"switch"
+			],
+			[
+				"Me",
+				"Mensaje"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"Th",
+				"thread"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"mili",
+				"milesimas"
+			],
+			[
+				"merge",
+				"mergesort"
+			],
+			[
+				"for",
+				"for\tfor i=1,10"
+			],
+			[
+				"get",
+				"getValue"
+			],
+			[
+				"ini",
+				"initiativeButtons"
+			],
+			[
+				"is",
+				"isFacingUp"
+			],
+			[
+				"unic",
+				"unicodeFilledDiamond"
+			],
+			[
+				"printR",
+				"printToColor"
+			],
+			[
+				"getObjec",
+				"getObjectFromGUID"
+			],
+			[
+				"set",
+				"setName"
+			],
+			[
+				"DM",
+				"DMCounter"
+			],
+			[
+				"uni",
+				"unicodeCircle"
+			],
+			[
+				"u",
+				"unicodeCircle"
+			],
+			[
+				"spaw",
+				"spawnObject"
+			],
+			[
+				"close",
+				"closeBook"
+			],
+			[
+				"enable",
+				"enableManager"
+			],
+			[
+				"create",
+				"createCache"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"Bas",
+				"Base_Stats"
+			],
+			[
+				"Ba",
+				"Base_Stats"
+			],
+			[
+				"ba",
+				"Base_Stats"
+			],
+			[
+				"enter",
+				"enter_object"
+			],
+			[
+				"getV",
+				"getVar"
+			],
+			[
+				"Text",
+				"TextTool"
+			],
+			[
+				"Player",
+				"playerInformation"
+			],
+			[
+				"key",
+				"keyLookup"
+			],
+			[
+				"modi",
+				"modifier"
+			],
+			[
+				"modS",
+				"modSize"
+			],
+			[
+				"player",
+				"playerInformation"
+			],
+			[
+				"alwa",
+				"always_visible"
+			],
+			[
+				"button",
+				"buttonTable"
+			],
+			[
+				"chaa",
+				"CharacterSheets"
+			],
+			[
+				"lo",
+				"loadCharacterSheets"
+			],
+			[
+				"TTS",
+				"TTSLuaPlugin"
+			],
+			[
+				"open",
+				"open_all_files"
+			],
+			[
+				"recv",
+				"recv_timeout"
+			],
+			[
+				"Image",
+				"ImageChanger"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Alcantra.sublime-project",
+			"settings":
+			{
+				"buffer_size": 140,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/SimpleJava.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SimpleJava.sublime-build",
+					"Just Run"
+				]
+			],
+			[
+				"Packages/User/SimpleJava.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/SimpleJava.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SimpleJava.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/SimpleJava.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"create",
+				"Package Control: Create Package File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"Channel",
+				"ChannelRepositoryTools: Test Default Channel"
+			],
+			[
+				"pakca",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: sublime.w",
+				"Snippet: sublime.windows"
+			],
+			[
+				"Snippet: ",
+				"Snippet: selection.clear"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"word ",
+				"Word Wrap: Toggle"
+			]
+		],
+		"width": 616.0
+	},
+	"console":
+	{
+		"height": 238.0,
+		"history":
+		[
+			"sublime.run_command('save_all')",
+			"window.run_command('save_all')",
+			"sublime.run_command('save_all')",
+			"window.run_command('save_all')",
+			"view.run_command(\"save\")",
+			"view.run_command(\"save_all\")",
+			"save_all",
+			"view.run_command(\"example2\")",
+			"sublime.ok_cancel_dialog(\"hello mrm\", \"OKY\")",
+			"view.run_command(\"example2\")",
+			"view.run_command(\"example1\")",
+			"view.run_command('example')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/R/Users/Rolando/Documents/GitHub/Alcantra/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/R/Dropbox/ESCOM/5to Semestre/Redes/Practica 4/ChatMulti.java",
+		"/R/Users/Public/Documents/Unity Projects/Dual-Mouse-Lightsaber/Assets/AmplifyBloom/Plugins/AmplifyBloomEffect.cs",
+		"/R/Users/Rolando/Documents/GitHub/Alcantra/Assets/AssetStoreTools/Uniduino/Scripts/SerialPortProxy.cs",
+		"/R/Users/Rolando/Documents/GitHub/Alcantra/Assets/AssetStoreTools/Uniduino/Scripts/UniduinoSetup.cs",
+		"/R/Users/Rolando/Documents/GitHub/Alcantra/Assets/AssetStoreTools/Uniduino/Scripts/Arduino.cs",
+		"/R/Users/Rolando/Documents/GitHub/Alcantra/Assets/AssetStoreTools/Uniduino/Editor/UniduinoSetup.cs",
+		"/R/Users/Rolando/Documents/GitHub/Alcantra/Assets/AssetStoreTools/Uniduino/Scripts/Arduino.Firmata.cs",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.922/ManyMouseForBrendon/ManyMouseUnityImplementation/ManyMouseWrapper.cs",
+		"/R/Users/Rolando/Downloads/SR.vhd",
+		"/R/Users/Public/Documents/Unity Projects/Mouse Testing/Assets/Scripts/ManyMouse.cs",
+		"/R/Users/Public/Documents/Unity Projects/Mouse Testing/Other/MouseInput.cs",
+		"/R/Users/Public/Documents/Unity Projects/Mouse Testing/Other/Examples/MouseControlledBox.cs",
+		"/R/Users/Public/Documents/Unity Projects/Mouse Testing/Other/Examples/YourGameInputManager.cs",
+		"/R/Users/Public/Documents/Unity Projects/Lightsaber/Assets/Editor/AutoSaveOnRun.cs",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.940/ManyMouseForBrendon/ManyMouseUnityImplementation/ManyMouse.cs",
+		"/R/Users/Public/Documents/Unity Projects/New Unity Project/Assets/59FollowMouse/FollowMouse.cs",
+		"/R/Users/Public/Documents/Unity Projects/New Unity Project/Assets/GameController.cs",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DIa0.446/MouseControlledBox.cs",
+		"/R/Users/Public/Documents/Unity Projects/Mouse Testing/Assets/MouseInput.cs",
+		"/R/Users/Public/Documents/Unity Projects/Mouse Testing/Assets/MouseTrack.cs",
+		"/R/Users/Public/Documents/Unity Projects/Mouse Test/Assets/MouseInput.cs",
+		"/R/Users/Public/Documents/Unity Projects/ManyMouseUnityImplementation/Examples/MouseControlledBox.cs",
+		"/R/Users/Public/Documents/Unity Projects/ManyMouseUnityImplementation/ManyMouse.cs",
+		"/R/Users/Public/Documents/Unity Projects/Mouse Testing/Plugins/dsad.cs",
+		"/R/Dropbox/ESCOM/5to Semestre/Redes/Practica 4/Ejemplo/AutoreplaceSmiles.java",
+		"/R/Dropbox/ESCOM/5to Semestre/Redes/Practica 4/JFrameExample2.java",
+		"/R/Dropbox/ESCOM/5to Semestre/Redes/misc/EnviaArchivo/C_Envia.java",
+		"/E/Practica 1/programa2.c",
+		"/R/Dropbox/ESCOM/5to Semestre/Redes/components-TextSamplerDemoProject/src/components/TextSamplerDemo.java",
+		"/R/Dropbox/ESCOM/5to Semestre/Redes/components-TextSamplerDemoProject/Main.java",
+		"/R/Users/Rolando/Desktop/Eval1/Prueba1.java",
+		"/R/Users/Rolando/Desktop/Eval1/Server/server.java",
+		"/R/Users/Rolando/Downloads/g1.vhd",
+		"/R/Users/Rolando/Downloads/gal2.vhd",
+		"/R/Users/Rolando/Downloads/g3.vhd",
+		"/R/Users/Rolando/Desktop/Arduino/SerialTest.java",
+		"/R/Users/Rolando/Desktop/Eval1/Server/tiempos.txt",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DIa0.236/server.java",
+		"/R/Users/Rolando/Desktop/Arduino/BlinkLED.java",
+		"/R/Users/Rolando/Desktop/Arduino/DataReceiver.java",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.385/1ev/mux01/mux01.vhdl",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.339/1ev/comp00/comp00.vhdl",
+		"/R/Users/Rolando/Desktop/Forge/bmr.java",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DIa0.797/litemod.json",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.488/programa1.c",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DIa0.504/litemod.json",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DIa0.841/litemod.json",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DIa0.036/litemod.json",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Tabletop Simulator Lua/TTSLuaPlugin.sublime-settings",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Tabletop Simulator Lua/Default (Windows).sublime-keymap",
+		"/R/Users/Rolando/Documents/GitHub/tabletopsimulator-lua-sublime/Main.sublime-menu",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Tabletop Simulator Lua/Tabletop Simulator Lua.sublime-settings",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.128/1ev/mux01/mux01.vhdl",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/TTSLuaPlugin/TTSLuaPlugin.sublime-settings",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.112/Main.sublime-menu",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.880/Main.sublime-menu",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DIa0.075/package-metadata.json",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.087/Main.sublime-menu",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.916/Context.sublime-menu",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.060/Main.sublime-menu",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/notme/Context.sublime-menu",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/notme/Default (Windows).sublime-keymap",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/notme/Main.sublime-menu",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/User/TTSLuaPlugin.sublime-settings",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/TTSLuaPlugin/Context.sublime-menu",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/TTSLuaPlugin/Main.sublime-menu",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/TTSLuaPlugin/TTSLuaPlugin.py",
+		"/R/Users/Rolando/Documents/GitHub/tabletopsimulator-lua-sublime/TTSLuaPlugin.py",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/User/TTSLuaPlugin.py",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.492/TTSLuaPlugin.py",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.707/TTSLuaPlugin.py",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.718/install.sh",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.519/run_me_after_reboot.sh",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DIa0.965/Install.sh",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Char Ring.CHAR.lua",
+		"/R/Users/Rolando/Documents/My Games/Tabletop Simulator/Saves/TS_Save_100.json",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Global.-1.lua",
+		"/R/Users/Rolando/Documents/My Games/Tabletop Simulator/Saves/TS_Save_101.json",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Rolling Ring.ROLL.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Tools Ring.TOOLS.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Background Image Changer.ImageChanger.lua",
+		"/R/Users/Rolando/Documents/My Games/Tabletop Simulator/Saves/Chest/PreDS Encoded Monster Deck.json",
+		"/R/Users/Rolando/Documents/My Games/Tabletop Simulator/Saves/TS_Save_44.json",
+		"/R/Users/Rolando/Documents/My Games/Tabletop Simulator/Saves/TS_Save_99.json",
+		"/R/Users/Rolando/Documents/My Games/Tabletop Simulator/BlockList.json",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Forest.b68a25.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Io.b3e735.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Godric Star.2ca3c1.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Torrin.ce5baa.lua",
+		"/R/Users/Rolando/Desktop/Char Ring.CHAR.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/TTSLuaPlugin/Default (Windows).sublime-keymap",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Domino.5770bd.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Domino.cb6bf1.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Domino.a8f67b.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Floor Inventory.154524.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Wall Inventory.442c36.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Dungeon System Configuration.10b541.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Dungeon System Brain.365d5e.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Card.23e98e.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Card.3495f4.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Card.d4a61d.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Card.6e972f.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Domino.db9d71.lua",
+		"/R/Users/Rolando/Documents/GitHub/tabletopsimulator-lua-sublime/Default (Windows).sublime-keymap",
+		"/R/Users/Rolando/Documents/GitHub/tabletopsimulator-lua-sublime/Tabletop Simulator Lua.sublime-settings",
+		"/R/Users/Rolando/Documents/GitHub/tabletopsimulator-lua-sublime/TTSLuaPlugin.sublime-settings",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Nope/TTSLuaPlugin.sublime-settings",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Lua/Metal Ball.6d20a3.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Nope/Main.sublime-menu",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.264/Main.sublime-menu",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.581/Open.py",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.270/Main.sublime-menu",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.938/Open.py",
+		"/R/Users/Rolando/Desktop/package-metadata.json",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Open/Open.sublime-settings",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Nope/TTSLuaPlugin.py",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/Open/Default (Windows).sublime-keymap",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.509/Default.sublime-commands",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Nope/Default (Windows).sublime-keymap",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.044/Default (Windows).sublime-keymap",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/User/Open.sublime-settings",
+		"/R/Users/Rolando/AppData/Local/Temp/Rar$DRa0.897/TTSLuaPlugin.py",
+		"/R/Users/Rolando/Documents/GitHub/tabletopsimulator-lua-sublime/Context.sublime-menu",
+		"/R/Users/Rolando/Documents/GitHub/tabletopsimulator-lua-sublime/Default.sublime-keymap",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/User/Lua/Global.-1.lua",
+		"/R/Users/Rolando/AppData/Roaming/Sublime Text 3/Packages/User/Lua/Tools Ring.TOOLS.lua"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"path",
+			"button",
+			"event",
+			"evenmt",
+			"destroy",
+			"init",
+			"();\n",
+			"iniciarCronometro",
+			"iniciarCronometro\n",
+			"hilo2",
+			"pararCronometro",
+			"receive",
+			"PORT_NAMES",
+			"dropboxusercontent",
+			"mid",
+			"top",
+			"bottom",
+			"size",
+			"list_of_words",
+			"target",
+			"edit",
+			"function initiativeCall()\n    printToAll('?DA?Everyone! Roll for initiative.', {0,1,0})\n    initiativeReturnTable = {}\n    if initiativeDice[1] ~= nil then destroyInitiativeDice() end -- if there are dice, destroy them.\n    local initiativePosStart ={ -- Starting position of Dice around the table\n        {-26.4294167,35,-50},\n        {19.1912746,35,-50},\n        {68,35,-18.0596981},\n        {68,35,18.436554},\n        {19.1912746,35,50},\n        {-26.5910931,35,50}\n    }\n    local initiativePosEnd ={ -- End position of Dice around the table\n        {-26.4294167,10,-28.9376125},\n        {19.1912746,10,-28.9376125},\n        {46.4691,10,-18.0596981},\n        {46.184082,10,18.436554},\n        {19.1912746,10,28.1356277},\n        {-26.5910931,10,28.1356277}\n    }\n    -- Spawn Dice\n    local params = {}\n    local i = 1\n\n    params.type = 'Die_20'\n    for i=1,6 do -- Allowing color tint to set by pre-spawning dice\n        if char.getTable('CharacterSheets')[orderedPlayerColors[i]] ~= nil and Global.call(\"getZone\",{orderedPlayerColors[i]}) == 2 then\n            params.position = {0,-10,0}\n            params.bounciness = 0\n            initiativeDice[orderedPlayerColors[i]] = spawnObject(params)\n            initiativeDice[orderedPlayerColors[i]].lock()\n            initiativeDice[orderedPlayerColors[i]].setColorTint(returnColorTable(orderedPlayerColors[i]))\n        end\n    end\n    wait(50) -- Allowing color tint to set\n    for i=1,6 do\n        if char.getTable('CharacterSheets')[orderedPlayerColors[i]] ~= nil and Global.call(\"getZone\",{orderedPlayerColors[i]}) == 2 then\n            initiativeDice[orderedPlayerColors[i]].setScale({7,7,7})\n            initiativeDice[orderedPlayerColors[i]].setPosition(initiativePosStart[i])\n            initiativeDice[orderedPlayerColors[i]].setPositionSmooth(initiativePosEnd[i]) -- Animation\n        end\n    end\n    local temp = {} -- Allowing color tint to set by pre-spawning dice\n    for i=1,6 do\n        if char.getTable('CharacterSheets')[orderedPlayerColors[i]] ~= nil and Global.call(\"getZone\",{orderedPlayerColors[i]}) == 2 then\n            params.position = {0,-10,0}\n            params.bounciness = 0\n            temp[orderedPlayerColors[i]] = spawnObject(params)\n            temp[orderedPlayerColors[i]].lock()\n            temp[orderedPlayerColors[i]].setScale({7,7,7})\n            temp[orderedPlayerColors[i]]['use_gravity'] = false\n            temp[orderedPlayerColors[i]]['mass'] = 0\n            temp[orderedPlayerColors[i]].setColorTint(returnColorTable(orderedPlayerColors[i]))\n        end\n    end\n    wait(80)\n    --[[\n        HACK: setPositionSmooth Workaround\n        Since it moves them in a weird way, this destroys the dice once the animation is complete,\n        (80 frames) and respawns them at the end position. Jerks around if Host has bad framerate.\n    ]]--\n    for i=1,6 do -- moving the pre-spawned dice into position and destroying the old\n        if char.getTable('CharacterSheets')[orderedPlayerColors[i]] ~= nil and Global.call(\"getZone\",{orderedPlayerColors[i]}) == 2 then\n            temp[orderedPlayerColors[i]].setPosition(initiativePosEnd[i])\n            initiativeDice[orderedPlayerColors[i]].destruct()\n            initiativeDice[orderedPlayerColors[i]] = temp[orderedPlayerColors[i]]\n            initiativeDice[orderedPlayerColors[i]].unlock()\n        end\n    end\n    setRoll(1)\n    return 1\nend",
+			"playerInformation[color]['edit']",
+			"processInitiativeDie",
+			"initiativeDieSet",
+			"iRollPlayer",
+			"setValue",
+			"face",
+			"initiative",
+			"returnColorTable",
+			"'t'",
+			"DA..\"",
+			"toggleed",
+			"Preset Char",
+			"monstermat",
+			"loud-3.steamusercontent.com/ugc/266095116600131670/AE802E6CAAF7446E036EF05373D3D4C275D0ABB9/",
+			"map",
+			"9f02aa",
+			"Forest",
+			"e82794",
+			"985288",
+			"bcc56d",
+			"94eca8",
+			"154524",
+			"Map5",
+			"a6f887",
+			"Map",
+			"1000.10706,",
+			"http://pastebin.com/raw/y6a5ZDmm",
+			"http://pastebin.com/raw/FUFcCDuV",
+			"FUFcCDuV",
+			"initiativeReturnTable",
+			"getIniti",
+			"destroyInitiativeDice",
+			"iRollPlayer",
+			"setRoll",
+			"getInit",
+			"zone",
+			"cone",
+			"monsterPlatformValueCounters",
+			"monsterPlatformValueCounterGUIDs_1",
+			"monsterPlatformValueCounters",
+			"monsterPlatformValueCounterGUIDs_1",
+			"b12726",
+			"activeInitiativeZone",
+			"zone",
+			"setRoll",
+			"callRoutine",
+			"cancelI",
+			"callRoutine",
+			"tools ring",
+			"initiativeBroadcastState",
+			"initiativeIndicatorBlock",
+			"'?DA?",
+			"\"?DA?",
+			"'?DA?",
+			"?DA?",
+			"callRoutine",
+			"unicode",
+			"getInitiative",
+			"callRoutine",
+			"nextTurn",
+			"callRoutine",
+			"5fff87",
+			"79a778",
+			"eb3038",
+			"button",
+			"dropbox",
+			"http://pastebin.com/raw/PcviB5Ky",
+			"Rune",
+			"plane",
+			"c0a4e4",
+			"6b69ce",
+			"terMat",
+			"c0ccc7",
+			"mat",
+			"dropbox",
+			"dropbox.",
+			"dropbox",
+			"\",\n",
+			"dropbox",
+			"1c1c26",
+			"https://dl.dropboxusercontent.com/u/28230348/TTS/D%26D/Textures/MonsterCard_Face.png",
+			"https://dl.dropboxusercontent.com/u/28230348/TTS/D%26D/Textures/MonsterCard_B.png",
+			"dropbox",
+			"f95a0c",
+			"Test Mons",
+			"Update",
+			"9107",
+			"b12726",
+			"6a007c",
+			"function cloneCard",
+			"cloneCard",
+			"copy",
+			"413e0c",
+			"getObjects",
+			"getObjec",
+			"getAllO",
+			"monsterPlatform",
+			"eea006",
+			"f95a0c",
+			"Test Mons",
+			"79a77",
+			"7db223",
+			"monsterPlatformZoneGUID",
+			"zone",
+			"update",
+			"Type Here"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mitad",
+			"arriba",
+			"abajo",
+			"n",
+			"lista",
+			"nombre",
+			"\"?DA?",
+			"DA..\"",
+			"DA..'",
+			"http://cloud-3.steamusercontent.com/ugc/263840737151761787/5F3BD9C4439A2E862E4CB33FF3DB3B68578E951C/",
+			"http://i.imgur.com/52Hwas7.png",
+			"【DA】",
+			"\"posX\": -64.3,",
+			"\"posX\": -64.8,",
+			"↻",
+			"ImageChanger",
+			"【DA】",
+			"●",
+			"【DA】",
+			"●",
+			"【DA】",
+			"●",
+			"【DA】",
+			"?DA?",
+			"●"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Alcantra.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 228.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "Alcantra.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

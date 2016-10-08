@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "Assets/Scripts",
+			//"path": ".",
+			"file_exclude_patterns":
+			[
+				"*.dll",
+				"*.meta"
+			]
+		}
+	]
+}
