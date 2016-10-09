@@ -2,7 +2,7 @@
 
 Basic Features:
 
- * 2 Independent Potentiometer control Aiming and Color Selection
+ * 2 Independent Potentiometer control Track and Color Selection
  * Special Blocks/Edges are Shadow and Ice.
    * Defeated by Using Fire and Light  
  * 2 Game Modes
